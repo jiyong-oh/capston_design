@@ -1,0 +1,16 @@
+# Whisper checkpoint (local download)
+ALMGuard-main/models/
+
+# Archives
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
